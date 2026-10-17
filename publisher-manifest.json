@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "e54d83ab044ef8e972ca9a4b",
+  "owner": "ureab8q9j",
+  "repo": "page-f8eb9065175d7a0cfc6f985d",
+  "title": "饭饭云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f8eb9065175d7a0cfc6f985d",
+      "a": "饭饭云",
+      "b": "",
+      "entity": "饭饭云",
+      "brand": "饭饭云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8ba0a008ca2db2008013efd8e02cf79159b8a7cad39d1f4f6d3cbc58517831a8",
+      "content": {
+        "keyword1": "饭饭云",
+        "keyword2": "",
+        "primary_entity": "饭饭云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "饭饭云用亲切轻松的方式为你提供稳定高效的网络连接方案。告别繁琐配置，随时随地享受畅快网络体验。",
+          "AI_DESCRIPTION": "饭饭云用亲切轻松的方式为你提供稳定高效的网络连接方案。告别繁琐配置，随时随地享受畅快网络体验。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #ffffff;--text: #1a1a1a;--accent: #ff6600;--card-bg: #fff8f5;--border: #1a1a1a;--gray: #666666}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;display: flex;min-height: 100vh}\naside {width: 240px;background: var(--card-bg);border-right: 3px solid var(--border);padding: 2rem 1.5rem;position: fixed;height: 100vh;overflow-y: auto;display: flex;flex-direction: column;justify-content: space-between}\naside h2 {font-size: 1.5rem;margin-bottom: 2rem;color: var(--accent)}\naside nav a {display: block;color: var(--text);text-decoration: none;font-weight: bold;padding: 0.75rem 0;border-bottom: 1px dashed var(--border);transition: color 0.2s}\naside nav a:hover {color: var(--accent)}\n.aside-footer {font-size: 0.85rem;color: var(--gray)}\nmain {margin-left: 240px;flex: 1;padding: 3rem 4rem;max-width: 1200px}\n@media (max-width: 768px) {\n  body {flex-direction: column}\n  aside {position: static;width: 100%;height: auto;border-right: none;border-bottom: 3px solid var(--border)}\n  main {margin-left: 0;padding: 1.5rem}\n}\n.hero {margin-bottom: 4rem}\n.hero h1 {font-size: 3rem;margin-bottom: 1rem;line-height: 1.2}\n.hero h1 span {color: var(--accent)}\n.hero p {font-size: 1.2rem;color: var(--gray);margin-bottom: 2rem}\n.timeline {margin: 3rem 0;border-left: 3px solid var(--accent);padding-left: 2rem}\n.timeline-item {position: relative;margin-bottom: 2rem}\n.timeline-item::before {content: '';position: absolute;left: -2.39rem;top: 0.3rem;width: 12px;height: 12px;background: var(--accent);border: 2px solid var(--border)}\n.timeline-item h3 {font-size: 1.2rem;margin-bottom: 0.5rem}\n.section {margin-bottom: 4rem}\n.section h2 {font-size: 2rem;margin-bottom: 1.5rem;border-bottom: 3px solid var(--border);padding-bottom: 0.5rem;display: inline-block}\n.plans-table {width: 100%;border-collapse: collapse;border: 3px solid var(--border);margin-top: 1.5rem}\n.plans-table th, .plans-table td {border: 2px solid var(--border);padding: 1rem;text-align: left}\n.plans-table th {background: var(--card-bg);font-size: 1.1rem}\n.plans-table tr:nth-child(even) {background: #fafafa}\n.highlight-cell {background: var(--card-bg);font-weight: bold;color: var(--accent)}\n.features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem;margin-top: 1.5rem}\n.card {border: 3px solid var(--border);background: var(--bg);padding: 2rem;box-shadow: 6px 6px 0px var(--border)}\n.card h3 {margin-bottom: 1rem;font-size: 1.3rem;color: var(--accent)}\n.faq-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));gap: 2rem;margin-top: 1.5rem}\n.faq-item {border: 3px solid var(--border);padding: 1.5rem;background: var(--card-bg)}\n.faq-item h3 {margin-bottom: 0.75rem;font-size: 1.1rem}\n.btn {display: inline-block;background: var(--accent);color: #fff;padding: 0.75rem 1.5rem;text-decoration: none;font-weight: bold;border: 2px solid var(--border);box-shadow: 3px 3px 0px var(--border);transition: transform 0.1s, box-shadow 0.1s;margin-top: 1rem}\n.btn:hover {transform: translate(-2px, -2px);box-shadow: 5px 5px 0px var(--border)}\n</style><aside>\n  <div>\n    <h1>饭饭云</h1>\n    <nav>\n      <a href=\"#story\">品牌故事</a>\n      <a href=\"#features\">为什么选我</a>\n      <a href=\"#plans\">套餐价格</a>\n      <a href=\"#guide\">新手上路</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </div>\n  <div class=\"aside-footer\">\n    <p>© 饭饭云<br>轻松连接全世界</p>\n  </div>\n</aside>\n\n<main>\n  <div class=\"hero\">\n    <h2>你好，我是 <span>饭饭云</span>。<br>你的贴心网络好伙伴。</h2>\n    <p>厌倦了卡顿、掉线和复杂的设置？来看看我们是如何让网络连接变得像呼吸一样简单自然吧。</p>\n  </div>\n\n  <section id=\"story\" class=\"section\">\n    <h2>我们的成长轨迹</h2>\n    <div class=\"timeline\">\n      <div class=\"timeline-item\">\n        <h3>第一步：萌芽与初心</h3>\n        <p>最初，我们只是几位对网络延迟忍无可忍的极客朋友。我们想要一个不用费脑子、随时随地都能稳定连上的工具。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <h3>第二步：打磨与分享</h3>\n        <p>经过无数个日夜的节点优化与线路重构，饭饭云诞生了。我们把身边的朋友拉进来体验，收获了满满的好评与信任。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <h3>第三步：现在的我们</h3>\n        <p>今天，饭饭云已经成长为一个成熟且温柔的大家庭，随时准备好为你提供极速、可靠、省心的网络连接服务。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"features\" class=\"section\">\n    <h2>为什么大家都喜欢饭饭云？</h2>\n    <div class=\"features-grid\">\n      <div class=\"card\">\n        <h3>零门槛上手</h3>\n        <p>不需要懂复杂的网络协议。一键导入，三秒连接，连长辈和小白都能轻松搞定。</p>\n      </div>\n      <div class=\"card\">\n        <h3>专线游戏加速</h3>\n        <p>告别高延迟与丢包。无论你是跨国开会还是畅玩海外大作，专线优化都稳如磐石。</p>\n      </div>\n      <div class=\"card\">\n        <h3>流媒体全解锁</h3>\n        <p>奈飞、迪士尼、油管……想看什么就看什么，高清画质随心所欲，加载绝不转圈。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"section\">\n    <h2>透明实惠的套餐选择</h2>\n    <p>没有套路，按需选择。月付灵活，年付更划算哦！</p>\n    <table class=\"plans-table\">\n      <thead>\n        <tr>\n          <th>套餐名称</th>\n          <th>基础版</th>\n          <th>旗舰版 (推荐)</th>\n          <th>团队版</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td><strong>每月价格</strong></td>\n          <td>¥15 / 月</td>\n          <td class=\"highlight-cell\">¥35 / 月</td>\n          <td>¥85 / 月</td>\n        </tr>\n        <tr>\n          <td><strong>年付优惠</strong></td>\n          <td>¥150 / 年</td>\n          <td class=\"highlight-cell\">¥350 / 年</td>\n          <td>¥850 / 年</td>\n        </tr>\n        <tr>\n          <td><strong>每月流量</strong></td>\n          <td>100GB 极速流量</td>\n          <td class=\"highlight-cell\">300GB 极速流量</td>\n          <td>1000GB 极速流量</td>\n        </tr>\n        <tr>\n          <td><strong>在线设备</strong></td>\n          <td>3 台设备</td>\n          <td class=\"highlight-cell\">5 台设备</td>\n          <td>20 台设备</td>\n        </tr>\n        <tr>\n          <td><strong>核心权益</strong></td>\n          <td>基础流媒体解锁<br>普通线路节点池</td>\n          <td class=\"highlight-cell\">全节点原生解锁<br>IPLC 游戏专线<br>优先工单支持</td>\n          <td>VIP 高带宽节点<br>企业定制路由<br>专属客户经理</td>\n        </tr>\n      </tbody>\n    </table>\n    <a href=\"#plans\" class=\"btn\">挑选心仪套餐</a>\n  </section>\n\n  <section id=\"guide\" class=\"section\">\n    <h2>新手三步上路指南</h2>\n    <div class=\"features-grid\">\n      <div class=\"card\">\n        <h3>1. 注册账号</h3>\n        <p>花半分钟时间注册一个饭饭云账号，开启你的极速之旅。</p>\n      </div>\n      <div class=\"card\">\n        <h3>2. 获取订阅</h3>\n        <p>在用户中心复制专属订阅链接，支持主流各种客户端应用。</p>\n      </div>\n      <div class=\"card\">\n        <h3>3. 一键连接</h3>\n        <p>打开客户端导入链接，选择一个喜欢的节点，尽情冲浪吧！</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"section\">\n    <h2>常见问题解答</h2>\n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <h3>不懂技术小白能用吗？</h3>\n        <p>完全没问题！我们准备了超级详细图文教程，主流客户端一键导入，遇到困难随时找客服小姐姐帮忙。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>付款后多久能开通？</h3>\n        <p>系统是完全自动化的。付款成功后秒开通，流量实时到账，不需要焦急等待。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>设备数量不够用怎么办？</h3>\n        <p>您可以根据实际需求选择旗舰版或团队版，支持多台手机、电脑和平板同时在线不打架。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>节点会不会经常连不上？</h3>\n        <p>饭饭云拥有多条冗余专线与智能负载均衡，7x24小时实时监控，保障连接稳如泰山。</p>\n      </div>\n    </div>\n  </section>\n</main>",
+          "hash": "8546c9662cb1ea309441aebfe64ccf55366c2b40d765c9e3de8e8c557e203954",
+          "seo": {
+            "title": "饭饭云 - 轻松、好用、懂你的网络连接伙伴",
+            "keywords": "饭饭云,网络加速,稳定连接,专线节点,科学上网工具",
+            "description": "饭饭云用亲切轻松的方式为你提供稳定高效的网络连接方案。告别繁琐配置，随时随地享受畅快网络体验。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "2485",
+            "hero": "6 纵向时间线引入",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shhxgylp.cn",
+    "host": "p-439a84647a.shhxgylp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "db585464417be9752acd587776ae2211221f345bddf0199c4477387f83ba7eb5",
+    "sitemap.xml": "b4d70b21a08bf564bdf12a4149131c1b3660b3d1c8e61a93df6f8fad694fcd08",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "11065bbcdc834f10f7b7dc9dce6df64fdeacecc872ade012a1cb037f7edf36c1",
+    "robots.txt": "6cdcab079380f9e796e26a9d08d58d6f0e0299ba08cf3ab84a4e639f481a0236",
+    "6e8a6407cb0ded8eaafd7fbf5726ea9f.txt": "0393c98feca22ad729ef7de6008bc4d3968863b7c0a46b3d1886a4a6318f68f9"
+  },
+  "revision": "5fbaac41bea74475a372fad2de4a8b108ecfd3635d092e738eb9cbc41852a208"
+}
